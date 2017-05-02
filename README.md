@@ -1,2 +1,2 @@
 # picToSheet
-Export an image to spreadsheet
+Export an image to spreadsheet *wink*
