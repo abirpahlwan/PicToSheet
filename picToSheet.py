@@ -2,7 +2,7 @@ import openpyxl as excel
 import cv2
 import numpy as np
 
-fileName = "DSC_3267-001"
+fileName = "Abir"
 
 img = cv2.imread(fileName + '.jpg')
 
